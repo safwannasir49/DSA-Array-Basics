@@ -22,7 +22,9 @@
 | 16 | Insert an element at the Xth position, shifting right | [Solution](solutions/insert_element.md) |
 | 17 | Delete an element at the Xth position, shifting left | [Solution](solutions/delete_element.md) |
 
-----
+<br>
+<hr/>
+
 
 <br><br>
 
