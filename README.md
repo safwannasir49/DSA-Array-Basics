@@ -21,3 +21,19 @@
 | 15 | Find the 2nd minimum element; if none, print -1 | [Solution](solutions/second_min.md) |
 | 16 | Insert an element at the Xth position, shifting right | [Solution](solutions/insert_element.md) |
 | 17 | Delete an element at the Xth position, shifting left | [Solution](solutions/delete_element.md) |
+<br><br>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+       <a href="mailto:safwannasir49@gmail.com" target="blank">
+        <img align="center" src="https://www.svgrepo.com/show/484206/mail.svg" alt="safwannasir49@gmail.com" height="30" width="40" />
+    </a>
+    <a href="https://twitter.com/SafwanNasir49" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="safwannasir" height="30" width="40" />
+    </a>
+    <a href="https://linkedin.com/in/safwan-nasir-955745219" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safwa_nasir" height="30" width="40" />
+    </a>
+    <a href="https://github.com/safwannasir49" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="safwannasir49" height="30" width="40" />
+    </a>
+</p>
