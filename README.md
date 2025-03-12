@@ -8,27 +8,27 @@ This repository contains a list of **important Array problems** in Java along wi
 
 # Arrays
 
-## 🔹 Problem List
+## 🔹 Problem List  
 
-| Problem No. | Name | Solution Code (Link) |
-|------------|------|----------------------|
-| 1 | Print each element and its index in an array | [Solution](solutions/print_index.md) |
-| 2 | Print elements of an array in reverse order | [Solution](solutions/reverse_array.md) |
-| 3 | Print alternate elements of an array | [Solution](solutions/alternate_elements.md) |
-| 4 | Create a duplicate of an array | [Solution](solutions/duplicate_array.md) |
-| 5 | Create two arrays: one for odd elements and one for even elements | [Solution](solutions/odd_even_arrays.md) |
-| 6 | Calculate sum and product of array elements | [Solution](solutions/sum_product.md) |
-| 7 | Count occurrences of a target number in an array | [Solution](solutions/count_occurrences.md) |
-| 8 | Check if an array is sorted forward, backward, or not at all | [Solution](solutions/check_sorted.md) |
-| 9 | Count unique and duplicate elements in an array (1-100) | [Solution](solutions/count_unique_duplicates.md) |
-| 10 | Check if two elements exist with a sum equal to a target value | [Solution](solutions/two_sum.md) |
-| 11 | Check if three elements exist with a sum equal to a target value | [Solution](solutions/three_sum.md) |
-| 12 | Find the maximum element in an array | [Solution](solutions/max_element.md) |
-| 13 | Find the minimum element in an array | [Solution](solutions/min_element.md) |
-| 14 | Find the 2nd maximum element; if none, print -1 | [Solution](solutions/second_max.md) |
-| 15 | Find the 2nd minimum element; if none, print -1 | [Solution](solutions/second_min.md) |
-| 16 | Insert an element at the Xth position, shifting right | [Solution](solutions/insert_element.md) |
-| 17 | Delete an element at the Xth position, shifting left | [Solution](solutions/delete_element.md) |
+| 🔢 Problem No. | Name | 📖 Description | Topic |
+|--------------|------|----------------------|---------|
+| 1  | **Print each element and its index in an array** | Iterate through the array and print each element along with its index. | <p align="center"><img src="https://img.shields.io/badge/Arrays-%23FF5733.svg?style=flat" /></p> |
+| 2  | **Print elements of an array in reverse order** | Traverse the array from the end and print each element. | <p align="center"><img src="https://img.shields.io/badge/Arrays-%23FFC300.svg?style=flat" /></p> |
+| 3  | **Print alternate elements of an array** | Print every alternate element starting from index 0. | <p align="center"><img src="https://img.shields.io/badge/Arrays-%23DAF7A6.svg?style=flat" /></p> |
+| 4  | **Create a duplicate of an array** | Copy all elements from one array to another. | <p align="center"><img src="https://img.shields.io/badge/Arrays-%23900C3F.svg?style=flat" /></p> |
+| 5  | **Separate odd and even elements into two arrays** | Create two arrays: one for odd and one for even elements. | <p align="center"><img src="https://img.shields.io/badge/Arrays-%236C757D.svg?style=flat" /></p> |
+| 6  | **Calculate sum and product of array elements** | Compute the sum and product of all elements. | <p align="center"><img src="https://img.shields.io/badge/Arrays-%23C70039.svg?style=flat" /></p> |
+| 7  | **Count occurrences of a target number in an array** | Find how many times a specific number appears in the array. | <p align="center"><img src="https://img.shields.io/badge/Arrays-%238C92AC.svg?style=flat" /></p> |
+| 8  | **Check if an array is sorted forward, backward, or not at all** | Determine whether an array is sorted in ascending, descending, or unsorted order. | <p align="center"><img src="https://img.shields.io/badge/Arrays-%23FFBD69.svg?style=flat" /></p> |
+| 9  | **Count unique and duplicate elements in an array (1-100)** | Identify the number of unique and duplicate elements. | <p align="center"><img src="https://img.shields.io/badge/Arrays-%234285F4.svg?style=flat" /></p> |
+| 10 | **Find two elements whose sum equals a target value** | Check if there are two numbers in the array that add up to a given target. | <p align="center"><img src="https://img.shields.io/badge/Arrays-%2396C8A2.svg?style=flat" /></p> |
+| 11 | **Find three elements whose sum equals a target value** | Check if three numbers in the array sum up to a given target. | <p align="center"><img src="https://img.shields.io/badge/Arrays-%23F78CA0.svg?style=flat" /></p> |
+| 12 | **Find the maximum element in an array** | Identify the largest number in the array. | <p align="center"><img src="https://img.shields.io/badge/Arrays-%236670FF.svg?style=flat" /></p> |
+| 13 | **Find the minimum element in an array** | Identify the smallest number in the array. | <p align="center"><img src="https://img.shields.io/badge/Arrays-%238E44AD.svg?style=flat" /></p> |
+| 14 | **Find the 2nd maximum element; if none, print -1** | Locate the second largest number in the array or return -1 if none exists. | <p align="center"><img src="https://img.shields.io/badge/Arrays-%23FF4500.svg?style=flat" /></p> |
+| 15 | **Find the 2nd minimum element; if none, print -1** | Locate the second smallest number in the array or return -1 if none exists. | <p align="center"><img src="https://img.shields.io/badge/Arrays-%239B59B6.svg?style=flat" /></p> |
+| 16 | **Insert an element at the Xth position, shifting right** | Insert a new element at a given position, shifting existing elements to the right. | <p align="center"><img src="https://img.shields.io/badge/Arrays-%23FF69B4.svg?style=flat" /></p> |
+| 17 | **Delete an element at the Xth position, shifting left** | Remove an element at a given position, shifting remaining elements to the left. | <p align="center"><img src="https://img.shields.io/badge/Arrays-%23D35400.svg?style=flat" /></p> |
 
 <br>
 <hr/>
